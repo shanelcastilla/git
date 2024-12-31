@@ -1,6 +1,7 @@
-def suma(primera,Segundoooo):
-    return  primera + Segundoooo
- 
+
+def resta(primera, Segundoooo):
+    return primera - Segundoooo
+
 # Ejemplo de uso
-resultado = suma(3, 5)
-print(f"La suma de 3 y 5 es: {resultado}")
+resultado_resta = resta(10, 4)
+print(f"La resta de 10 y 4 es: {resultado_resta}")
