@@ -1,6 +1,6 @@
 
-def resta(primera, Segundo1):
-    return primera - Segundo1
+def resta(primera, Segundo):
+    return primera - Segundo
 
 # Ejemplo de uso
 resultado_resta = resta(10, 4)
